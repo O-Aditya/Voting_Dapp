@@ -58,7 +58,7 @@ A decentralized voting system built on blockchain technology to ensure **transpa
 
 2. Install dependencies:
    ```bash
-  npm install
+   npm install
   
 3. Start a local blockchain with Ganache
 
